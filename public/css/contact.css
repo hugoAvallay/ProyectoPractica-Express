@@ -1,0 +1,30 @@
+.contact__header {
+    text-align: right;
+}
+
+.contact__header__nav {
+    background-color: rgba(255, 255, 255, 0,5);
+    padding-top: 2px 0;
+    margin-bottom: 20px;
+}
+.contact__header__nav ul li{
+    display: inline;
+    margin: 2px;
+}
+
+.contact__main div.contacto {
+    margin-top: 45px;
+}
+
+.contact__main div.contacto article {
+    margin-bottom: 45px;
+}
+.contact__main div.contacto h4 {
+    color: var(--colorVerde);
+    margin-bottom: 5px;
+}
+
+.contact__main div.contacto article p {
+    padding-top: 0;
+    line-height: 10px;
+}

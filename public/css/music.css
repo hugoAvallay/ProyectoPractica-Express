@@ -1,0 +1,40 @@
+
+.music__header {
+    background-image: url('/img/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+    text-align: right;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    
+    
+}
+
+.music__header__nav {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 2px 0;
+    margin-bottom: 20px;
+}
+
+.music__header__nav ul li {
+    display: inline;
+    margin-right: 5px;
+    
+}
+
+.music__main__nav li{
+    margin-left: 3%;
+}
+
+.music__main a {
+    color: gray;
+}
+
+.music__main article ol li {
+    list-style-type: decimal-leading-zero;
+}
+
+.music__main article ol li i {
+    margin-right: 5px;
+}
